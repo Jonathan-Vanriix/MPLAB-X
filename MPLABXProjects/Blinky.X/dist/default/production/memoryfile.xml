@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/default/production/Blinky.X.production.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>32768</length>
+      <used>34</used>
+      <free>32734</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>527616</length>
+      <used>1290</used>
+      <free>526326</free>
+    </memory>
+  </executable>
+</project>
